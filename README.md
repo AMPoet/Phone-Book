@@ -46,28 +46,32 @@ pip install win10toast
 ```bash
 pip install mysql-connector-python
 ```
-##Documentations:
+## Documentations:
 
-###MySQL: 
+### MySQL: 
 
 Official Documentation: [MySQL Connector/Python Developer Guide](https://dev.mysql.com/doc/connector-python/en/)
+
 Reference Manual: MySQL [Connector/Python Reference Manual
 ](https://dev.mysql.com/doc/connector-python/en/connector-python-api.html)
 
-###Win10Toast:
+### Win10Toast:
 
 PyPI Page: [Win10Toast on PyPI](https://pypi.org/project/win10toast/)
+
 GitHub Repository: [Win10Toast on GitHub](https://github.com/jithurjacob/Windows-10-Toast-Notifications)
 
-###Tkinter:
+### Tkinter:
 
 Official Python Docs: [Tkinter (GUI Programming) - Python Docs](https://docs.python.org/3/library/tkinter.html)
+
 Complete Reference: [Tkinter Reference Guide](https://tkdocs.com/)
 
 
 
 
-### Database Configuration
+
+## Database Configuration
 
 Ensure that your database configuration in the code is set correctly. For example:
 
