@@ -75,7 +75,7 @@ python main.py
 
 ## SEO Keywords
 
-**Python, Phone Book Application, MySQL, CustomTkinter, Desktop Application, Contact Management, Python Project, HiTech, GUI Development, Python Tutorial, Desktop Notifications**
+**Python**, **Phone Book Application**, **MySQL**, **CustomTkinter**, **Desktop Application**, **Contact Management**, **Python Project**, **HiTech**, **GUI Development**, **Python Tutorial**, **Desktop Notifications**
 
 ## Conclusion
 
