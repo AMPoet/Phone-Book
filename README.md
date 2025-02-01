@@ -35,6 +35,10 @@ Run the following commands in your terminal or command prompt:
 pip install customtkinter mysql-connector-python win10toast
 ```
 
+```bash
+pip install win10toast
+```
+
 ### Database Configuration
 
 Ensure that your database configuration in the code is set correctly. For example:
