@@ -1,4 +1,3 @@
-```markdown
 # Phone Book Application with Python and MySQL
 
 This project is a powerful and user-friendly **Phone Book Application** developed using **Python**, **CustomTkinter**, and **MySQL**. It enables you to add, remove, search, and display contacts seamlessly, making it an ideal tool for learning and applying modern desktop application development techniques.
@@ -82,5 +81,5 @@ python main.py
 
 This project is an excellent example of how Python can be used to build modern desktop applications with a sleek user interface and robust database management using MySQL. It is perfect for developers looking to enhance their programming, UI design, and data management skills. Customize the application to suit your needs and enjoy building innovative solutions with Python!
 
----
+
 ```
